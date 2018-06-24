@@ -1,0 +1,21 @@
+		JS-Rogue-Like Change Log
+----------------------------------------------------------
+Note: Version number is determined as follows. First number
+is major release.  Second number is incremented for each commit
+implementing new features or significant balance changes since
+last major release. (changes that impact game play)  The final 
+number is incremented for each back end change commited since
+last feature change. (minor things like bug fixes, code cleaning)
+
+Ver. 0.001.01
+- File organization structure added
+- Change log created
+
+Ver. 0.001.00 
+- Initial version based on first ascii rogue like by tutsplus
+  on github
+- move your character
+- kill enemies
+- win/lose condition
+- basic ai
+  
